@@ -1,6 +1,6 @@
 # Letong Wang — Data Science Portfolio
 
-Hi, I'm **Letong Wang** (Student ID: MC643595), a Master's student in Data Science (Education Analytics) at the University of Macau. I graduated from Yuzhang Normal University with a Bachelor's degree in Mathematics (Teacher Training). My work focuses on using data to understand student learning patterns and support evidence-based teaching decisions.
+Hi, I'm **Letong Wang**, a Master's student in Analytics in Teaching and Learning at the University of Macau. My work focuses on using data to understand student learning patterns and support evidence-based teaching decisions.
 
 ---
 
@@ -40,5 +40,4 @@ Hi, I'm **Letong Wang** (Student ID: MC643595), a Master's student in Data Scien
 ---
 
 ## Contact
-- **Email**: (add your UM email here)
 - **GitHub**: [letongwang-11](https://github.com/letongwang-11)

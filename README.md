@@ -1,6 +1,6 @@
 # Letong Wang — Data Science Portfolio
 
-Welcome to my data science portfolio! I am a Master's student in Data Science (Education Analytics) at the University of Macau, with a background in Mathematics Education. This repository hosts my portfolio website built with GitHub Pages.
+Welcome to my data science portfolio! I am a Master's student in Analytics in Teaching and Learning at the University of Macau. This repository hosts my portfolio website built with GitHub Pages.
 
 ## Live Website
 https://letongwang-11.github.io/data-science-portfolio/
@@ -13,13 +13,12 @@ https://letongwang-11.github.io/data-science-portfolio/
 ---
 
 ## About Me
-I am Letong Wang (Student ID: MC643595), currently pursuing a Master's degree in Data Science with a focus on education analytics. My goal is to use data-driven methods to understand student learning behaviours, improve teaching strategies, and support evidence-based educational decision-making. I hold a Bachelor's degree in Mathematics (Normal/Teacher Training) from Yuzhang Normal University.
+I am Letong Wang, a Master's student in Analytics in Teaching and Learning at the University of Macau. My goal is to use data-driven methods to understand student learning behaviours, improve teaching strategies, and support evidence-based educational decision-making.
 
 ## Technical Skills
 - **Programming**: Python (pandas, numpy, scikit-learn, matplotlib, seaborn), basic R
 - **Data Tools**: Jupyter Notebook, Process Mining (Disco), Excel
 - **Domains**: Education data analysis, learning analytics, statistical modelling, data visualization
-- **Soft Skills**: Research design, academic writing, data storytelling
 
 ## Project Showcase
 ### 1. Student Academic Performance Analysis
