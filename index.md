@@ -1,6 +1,6 @@
 # Letong Wang — Data Science Portfolio
 
-Hi, I'm **Letong Wang**, a Master's student in Analytics in Teaching and Learning at the University of Macau. My work focuses on using data to understand student learning patterns and support evidence-based teaching decisions.
+Hi, I'm **Letong Wang**, a Master's student in Data Science with Specialization in Analytics in Teaching and Learning at the University of Macau. My work focuses on using data to understand student learning patterns and support evidence-based teaching decisions.
 
 ---
 
